@@ -1,2 +1,1 @@
-Hello, Atlantico.
-Práticas e materiais de estudos ficarão aqui.
+Materiais criados durante as aulas do Trailhead.
