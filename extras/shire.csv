@@ -1,4 +1,5 @@
 author,word,tfidf
+gandalf,gandalf,600
 gandalf,cachimbo,179.87
 gandalf,inimigo,130.03
 gandalf,mago,217.02
@@ -6,6 +7,7 @@ gandalf,aventura,98.74
 gandalf,anel,256.05
 gandalf,tolos,138.31
 gandalf,hobbits,216.62
+bilbo,bilbo,150
 bilbo,cachimbo,150.11
 bilbo,hobbits,232.19
 bilbo,condado,140.05
@@ -13,13 +15,15 @@ bilbo,aventura,236.89
 bilbo,anel,53.47
 bilbo,comida,267.01
 bilbo,bolseiro,82.97
+sauron,sauron,45
 sauron,orthanc,199.88
 sauron,orc,222.77
 sauron,anel,50.16
-sauron,poder,105.80
+sauron,poder,105.8
 sauron,hobbits,258.62
 sauron,melkor,85.11
 sauron,laracna,296.99
+galadriel,galadriel,220
 galadriel,presentes,142.74
 galadriel,poder,123.76
 galadriel,anel,165.35
